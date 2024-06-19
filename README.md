@@ -1,2 +1,3 @@
 # TA-dasarweb
-Tugas Akhir dari course Dicoding - Belajar Dasar Pemrograman Web
+Final project for the Dicoding course - Belajar Dasar Pemrograman Web
+Please visit https://gilangmarta.github.io/TA-dasarweb/ for the result preview
